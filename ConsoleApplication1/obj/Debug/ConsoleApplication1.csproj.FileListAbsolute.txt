@@ -1,0 +1,16 @@
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\saxon9he-api.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\saxon9he.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\IKVM.Runtime.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\saxon9he-api.xml
+F:\temp\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.xml
+F:\temp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\temp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
